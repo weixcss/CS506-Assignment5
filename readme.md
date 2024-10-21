@@ -25,6 +25,7 @@ To run this project, you need Python 3.x and the following packages installed:
 
 ```bash
 pip install numpy pandas
+```
 
 Dataset
 The dataset contains the following customer attributes:
